@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #002171; /* bgc#fff */
+    background-color: #000032; /* bgc#fff */
     color: #fff;/* c#fff */
     background-image: url(images/sunset.jpg); /* bgi */
     background-position: right; /* bgp */
@@ -57,3 +57,4 @@ footer {
     color: #1976d2; /* c#fff */
     font-weight: bold; /* fwb */
 }
+
